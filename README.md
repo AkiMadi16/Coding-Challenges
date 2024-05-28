@@ -18,6 +18,10 @@ All files: files that were submitted from February 2023  for Coding Challenges.
 
 
 🌱 Mistakes and Lessons:
+- Atlassian Challenge - learned Map and Set object (collection of values - A value in the set may only occur once; it is unique in the set's collection.)
+[Map JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map ) 
+[Set JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) 
+
   practice before a challenge because I spent too much time remebering methods. I had to use internet help also it is accepted in Coder Byte!
 
 
