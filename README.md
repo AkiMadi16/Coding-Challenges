@@ -12,7 +12,7 @@ All files: files that were submitted from February 2023  for Coding Challenges.
 
 | Challeges                                                    | Files Submitted 
 | ----------------------------------------------------------- | --------------- 
-| [AtlassianChallenge](https://github.com/AkiMadi16/Coding-Challenges/tree/main/HackerRelayChallenge) 
+| [AtlassianChallenge](https://github.com/AkiMadi16/Coding-Challenges/blob/main/AtlassianChallenge/lights.js) 
 | [HackerRelayChallenge](https://github.com/AkiMadi16/Coding-Challenges/tree/main/HackerRelayChallenge) 
 
 
@@ -24,6 +24,10 @@ All files: files that were submitted from February 2023  for Coding Challenges.
 [Set JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) 
 
 2.  practice before a challenge because I spent too much time remembering methods. I had to use internet help also it is accepted in Coder Byte!
+
+3. If applying for React jobs then you will get simple React template code challenge to modify application such as  toggle between items in array.
+ex - on/off switch using useSate
+    onClick function with toggle action using Context API
 
 
 ## Explore My walk - It's Fun!! 🤷🏽‍♀️
